@@ -1,0 +1,16 @@
+.btn {
+    background-color: #0074D9;
+    color: white;
+    border: none;
+    outline: rgba(0, 0, 0, 0.2);
+    padding: 10px 20px;
+    cursor: pointer;
+    width: 100px;
+    border-radius: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+.button__wrap {
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: end;
+}

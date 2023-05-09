@@ -1,0 +1,9 @@
+.form__input {
+    font-family: 'Open Sans', sans-serif;
+}
+.input__wrapper {
+    margin-bottom: 10px;
+}
+.input__label {
+    padding-bottom: 10px;
+}
